@@ -365,6 +365,8 @@ teams = [
         vmax=ranking_df["diff"].max(),
     )
     .hide(axis=1, subset=["keeper_id"])
+    # no index
+    .hide(axis=0)
 )
 
 # %% [markdown]
