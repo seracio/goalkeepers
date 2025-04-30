@@ -338,7 +338,7 @@ teams = [
     "Liverpool",
     "Real-Madrid",
     "Bayern-Munich",
-    "Manchester -United",
+    "Manchester-United",
 ]
 
 (
